@@ -4,7 +4,7 @@
 public class Main {
 
     public static void main(String[] argv) {
-        System.out.println("第一次更新!!!");
+        System.out.println("第一次更新!!!!!");
     }
 
 }
